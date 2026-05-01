@@ -1,17 +1,5 @@
 import { useEffect, useState } from 'react';
-
-interface User {
-  id: number;
-  name: string;
-  email: string;
-  createdAt: string;
-}
-
-interface ApiResponse {
-  data: User[];
-  message: string;
-  success: boolean;
-}
+import { User, ApiResponse } from '@repo/types';
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
 
@@ -34,7 +22,7 @@ export function UserList() {
         throw new Error(`Error ${response.status}: ${response.statusText}`);
       }
 
-      const result: ApiResponse = await response.json();
+      const result: ApiResponse<User[]> = await response.json();
       setUsers(result.data);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Error al cargar usuarios');

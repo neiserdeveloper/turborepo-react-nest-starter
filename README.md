@@ -8,13 +8,13 @@
 React (Vite) en el frontend, NestJS en el backend, todo orquestado con Turborepo.
 
 [![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
-[![Turborepo](https://img.shields.io/badge/Turborepo-2.0-EF4444?logo=turborepo&logoColor=white)](https://turbo.build/)
+[![Turborepo](https://img.shields.io/badge/Turborepo-2.9-EF4444?logo=turborepo&logoColor=white)](https://turbo.build/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?logo=nestjs&logoColor=white)](https://nestjs.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-6-2D3748?logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![pnpm](https://img.shields.io/badge/pnpm-9-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
+[![pnpm](https://img.shields.io/badge/pnpm-10.33-F69220?logo=pnpm&logoColor=white)](https://pnpm.io/)
 
-[📺 Ver video](#-video-tutorial) · [🚀 Quick Start](#-quick-start) · [💬 Discord](https://neisercp.dev/discord) · [🌐 neisercp.dev](https://neisercp.dev)
+[📺 Ver video](#-video-tutorial) · [🚀 Quick Start](#-quick-start) · [💬 Discord](https://discord.gg/A77w9BKzN) · [🌐 neisercp.dev](https://neisercp.dev)
 
 </div>
 
@@ -70,7 +70,7 @@ turborepo-react-nest-starter/
 
 ```bash
 # Clonar el repo
-git clone https://github.com/neiserdeveloper/turborepo-react-nest-starter
+git clone -b starter https://github.com/neiserdeveloper/turborepo-react-nest-starter
 cd turborepo-react-nest-starter
 ```
 ---
@@ -269,7 +269,7 @@ Mira el video completo en mi canal de YouTube:
 
 ¿Dudas, sugerencias o quieres conectar con otros devs? Únete a la comunidad:
 
-[![Discord](https://img.shields.io/badge/Discord-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://neisercp.dev/discord)
+[![Discord](https://img.shields.io/badge/Discord-Únete-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A77w9BKzN)
 
 ---
 
@@ -285,6 +285,6 @@ MIT © [Neiser Custodio](https://neisercp.dev)
 
 Hecho con 💜 desde Lima, Perú 🇵🇪
 
-[Web](https://neisercp.dev) · [YouTube](https://youtube.com/@neisercp) · [LinkedIn](https://www.linkedin.com/in/neiser-custodio) · [GitHub](https://github.com/neiserdeveloper)
+[Web](https://neisercp.dev) · [YouTube](https://youtube.com/@neisercp) · [LinkedIn](https://www.linkedin.com/in/neisercustodio) · [GitHub](https://github.com/neiserdeveloper)
 
 </div>
