@@ -10,6 +10,9 @@
     "test": "turbo test",
     "clean": "turbo clean"
   },
+  "devDependencies": {
+    "turbo": "2.9.6"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
